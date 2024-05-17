@@ -5,3 +5,5 @@ Intro training for using Python / Notebooks for magnetoencephalography (MEG) dat
 This repository is intended for use in on-line Jupyter Notebook services, e.g. [mybinder.org](https://mybinder.org)
 
 [Lesson1](https://mybinder.org/v2/gh/smonto/python-meg-training/HEAD?labpath=Lesson1.ipynb)
+[Lesson2](https://mybinder.org/v2/gh/smonto/python-meg-training/HEAD?labpath=Lesson2.ipynb)
+[Lesson3](https://mybinder.org/v2/gh/smonto/python-meg-training/HEAD?labpath=Lesson3.ipynb)
