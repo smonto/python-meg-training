@@ -6,6 +6,7 @@ This repository is intended for use in on-line Jupyter Notebook services, in ord
 
 [Lesson1](https://mybinder.org/v2/gh/smonto/python-meg-training/HEAD?labpath=Lesson1.ipynb)
 _The True Basics Lesson_
+
 - how to use notebooks
 - introduction to Python
 - using modules
@@ -14,6 +15,7 @@ _The True Basics Lesson_
 
 [Lesson2](https://mybinder.org/v2/gh/smonto/python-meg-training/HEAD?labpath=Lesson2.ipynb)
 _First Look at MEG data and MNE_
+
 - loading raw data
 - the _info_ struct
 - plotting raw data
@@ -21,6 +23,7 @@ _First Look at MEG data and MNE_
 
 [Lesson3](https://mybinder.org/v2/gh/smonto/python-meg-training/HEAD?labpath=Lesson3.ipynb)
 _Visualize Evoked Responses_
+
 - finding events
 - computing evoked responses
 - visualizing and comparing evoked responses
