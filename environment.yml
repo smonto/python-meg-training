@@ -44,7 +44,7 @@ dependencies:
   - python-picard
   - qtpy
   - pyqt!=5.15.3,!=5.15.4
-  - mne
+  - mne=1.6.1
   - mffpy>=0.5.7
   - ipyevents
   - ipywidgets
